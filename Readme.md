@@ -69,7 +69,7 @@
 
 ### 2. **Run From Source**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/asimhusain-ai/Snake-Game.git
 cd Snake
 pip install pygame
 python snake.py
