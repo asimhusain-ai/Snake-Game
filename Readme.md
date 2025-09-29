@@ -36,9 +36,10 @@
 
 ---
 
-## 🔹 Project Structure
+## 📂 Project Structure
+
+```text
 Snake/
-│
 ├── assets/
 │   ├── fonts/
 │   │   ├── Ubuntu-Bold.ttf
@@ -48,7 +49,6 @@ Snake/
 │       ├── click.wav
 │       ├── eat_fruit.wav
 │       └── game_over.wav
-│
 ├── snake.py
 ├── icon.ico
 ├── SnakeGame.exe
