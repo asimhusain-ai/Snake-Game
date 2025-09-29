@@ -36,27 +36,6 @@
 
 ---
 
-## 📂 Project Structure
-
-```text
-Snake/
-├── assets/
-│   ├── fonts/
-│   │   ├── Ubuntu-Bold.ttf
-│   │   └── Ubuntu-Regular.ttf
-│   └── sounds/
-│       ├── background_music.ogg
-│       ├── click.wav
-│       ├── eat_fruit.wav
-│       └── game_over.wav
-├── snake.py
-├── icon.ico
-├── SnakeGame.exe
-└── README.md
-
-
----
-
 ## 🔹 Development Notes
 - This project took 15+ hours to develop.
 - Includes advanced gameplay mechanics and UI polish.
@@ -94,3 +73,25 @@ git clone <your-repo-url>
 cd Snake
 pip install pygame
 python snake.py
+
+---
+
+## 📂 Project Structure
+
+```text
+Snake/
+├── assets/
+│   ├── fonts/
+│   │   ├── Ubuntu-Bold.ttf
+│   │   └── Ubuntu-Regular.ttf
+│   └── sounds/
+│       ├── background_music.ogg
+│       ├── click.wav
+│       ├── eat_fruit.wav
+│       └── game_over.wav
+├── snake.py
+├── icon.ico
+├── SnakeGame.exe
+└── README.md
+
+---
